@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>My first web application</h1>
+<h2>This is the h2 tag</h2>
 </body>
 </html>
